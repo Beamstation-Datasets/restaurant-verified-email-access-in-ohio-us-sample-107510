@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Ohio, US
 
-> Free BeamStation sample export with 451 rows and masked direct-contact fields.
+> Free BeamStation sample export with 436 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `107510` |
 | Location | Ohio |
 | Category | Restaurants |
-| Full dataset size | 4,510 records |
-| Free sample size | 451 records (10.0%) |
-| Last export | 2026-04-08T02:59:59.247638+00:00 |
+| Full dataset size | 4,368 records |
+| Free sample size | 436 records (9.98%) |
+| Last export | 2026-04-15T08:03:12.296843+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-ohio-us-sample-107510/releases/download/sample-latest/beamstation_107510_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
