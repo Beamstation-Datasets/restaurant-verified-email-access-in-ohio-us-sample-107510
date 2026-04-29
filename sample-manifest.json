@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8d0af0d3-05a1-4164-89c6-677eb8a3ec65",
+  "export_job_id": "2e9a75ea-51ed-4976-82d1-a788471e89c7",
   "id_short": 107510,
-  "published_at": "2026-04-22T19:13:19Z",
+  "published_at": "2026-04-29T19:54:40Z",
   "repo_name": "restaurant-verified-email-access-in-ohio-us-sample-107510",
   "sample_asset_name": "beamstation_107510_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/107510/beamstation_107510_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 355,
-  "sample_sha256": "996c5e67f0cee048aaf6825c84f0e4937848d07bfdc121a52aac86e714de2b22",
-  "sample_size_bytes": 1412789,
-  "total_records": 3551
+  "sample_records": 379,
+  "sample_sha256": "9f13092b208c1e9df313ebf46aa27ef9af03ff6178810e2038cfca78b4fbdf78",
+  "sample_size_bytes": 1419405,
+  "total_records": 3797
 }
